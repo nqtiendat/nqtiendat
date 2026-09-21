@@ -1,42 +1,144 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-label="Nguyen Tien Dat - AI Engineer">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
-    </linearGradient>
-    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#30475e"/>
-    </marker>
-  </defs>
-
-  <rect width="1200" height="280" rx="12" fill="url(#bg)"/>
-  <rect x="0" y="0" width="6" height="280" rx="3" fill="#58a6ff"/>
-
-  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-    <text x="56" y="106" fill="#e6edf3" font-size="52" font-weight="700">Nguyen Tien Dat</text>
-    <text x="58" y="150" fill="#58a6ff" font-size="24" font-weight="600" letter-spacing="1.5">AI ENGINEER</text>
-    <text x="58" y="192" fill="#8b949e" font-size="19">LangGraph &#183; Deep Agents &#183; RAG &#183; multi-tenant systems</text>
-    <text x="58" y="222" fill="#6e7681" font-size="16">Agents allowed to touch production data, with the guardrails that makes possible.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Nguyen Tien Dat - AI Engineer">
+  <rect width="1200" height="220" rx="12" fill="#0d1117"/>
+  <g fill="#58a6ff">
+    <circle cx="660" cy="34" r="2.5" opacity="0.03"/>
+    <circle cx="660" cy="60" r="2.5" opacity="0.03"/>
+    <circle cx="660" cy="86" r="2.5" opacity="0.03"/>
+    <circle cx="660" cy="112" r="2.5" opacity="0.03"/>
+    <circle cx="660" cy="138" r="2.5" opacity="0.03"/>
+    <circle cx="660" cy="164" r="2.5" opacity="0.03"/>
+    <circle cx="660" cy="190" r="2.5" opacity="0.03"/>
+    <circle cx="686" cy="34" r="2.5" opacity="0.04"/>
+    <circle cx="686" cy="60" r="2.5" opacity="0.04"/>
+    <circle cx="686" cy="86" r="2.5" opacity="0.04"/>
+    <circle cx="686" cy="112" r="2.5" opacity="0.04"/>
+    <circle cx="686" cy="138" r="2.5" opacity="0.04"/>
+    <circle cx="686" cy="164" r="2.5" opacity="0.04"/>
+    <circle cx="686" cy="190" r="2.5" opacity="0.04"/>
+    <circle cx="712" cy="34" r="2.5" opacity="0.06"/>
+    <circle cx="712" cy="60" r="2.5" opacity="0.06"/>
+    <circle cx="712" cy="86" r="2.5" opacity="0.06"/>
+    <circle cx="712" cy="112" r="2.5" opacity="0.06"/>
+    <circle cx="712" cy="138" r="2.5" opacity="0.06"/>
+    <circle cx="712" cy="164" r="2.5" opacity="0.06"/>
+    <circle cx="712" cy="190" r="2.5" opacity="0.06"/>
+    <circle cx="738" cy="34" r="2.5" opacity="0.07"/>
+    <circle cx="738" cy="60" r="2.5" opacity="0.07"/>
+    <circle cx="738" cy="86" r="2.5" opacity="0.07"/>
+    <circle cx="738" cy="112" r="2.5" opacity="0.07"/>
+    <circle cx="738" cy="138" r="2.5" opacity="0.07"/>
+    <circle cx="738" cy="164" r="2.5" opacity="0.07"/>
+    <circle cx="738" cy="190" r="2.5" opacity="0.07"/>
+    <circle cx="764" cy="34" r="2.5" opacity="0.09"/>
+    <circle cx="764" cy="60" r="2.5" opacity="0.09"/>
+    <circle cx="764" cy="86" r="2.5" opacity="0.09"/>
+    <circle cx="764" cy="112" r="2.5" opacity="0.09"/>
+    <circle cx="764" cy="138" r="2.5" opacity="0.09"/>
+    <circle cx="764" cy="164" r="2.5" opacity="0.09"/>
+    <circle cx="764" cy="190" r="2.5" opacity="0.09"/>
+    <circle cx="790" cy="34" r="2.5" opacity="0.11"/>
+    <circle cx="790" cy="60" r="2.5" opacity="0.11"/>
+    <circle cx="790" cy="86" r="2.5" opacity="0.11"/>
+    <circle cx="790" cy="112" r="2.5" opacity="0.11"/>
+    <circle cx="790" cy="138" r="2.5" opacity="0.11"/>
+    <circle cx="790" cy="164" r="2.5" opacity="0.11"/>
+    <circle cx="790" cy="190" r="2.5" opacity="0.11"/>
+    <circle cx="816" cy="34" r="2.5" opacity="0.12"/>
+    <circle cx="816" cy="60" r="2.5" opacity="0.12"/>
+    <circle cx="816" cy="86" r="2.5" opacity="0.12"/>
+    <circle cx="816" cy="112" r="2.5" opacity="0.12"/>
+    <circle cx="816" cy="138" r="2.5" opacity="0.12"/>
+    <circle cx="816" cy="164" r="2.5" opacity="0.12"/>
+    <circle cx="816" cy="190" r="2.5" opacity="0.12"/>
+    <circle cx="842" cy="34" r="2.5" opacity="0.14"/>
+    <circle cx="842" cy="60" r="2.5" opacity="0.14"/>
+    <circle cx="842" cy="86" r="2.5" opacity="0.14"/>
+    <circle cx="842" cy="112" r="2.5" opacity="0.14"/>
+    <circle cx="842" cy="138" r="2.5" opacity="0.14"/>
+    <circle cx="842" cy="164" r="2.5" opacity="0.14"/>
+    <circle cx="842" cy="190" r="2.5" opacity="0.14"/>
+    <circle cx="868" cy="34" r="2.5" opacity="0.16"/>
+    <circle cx="868" cy="60" r="2.5" opacity="0.16"/>
+    <circle cx="868" cy="86" r="2.5" opacity="0.16"/>
+    <circle cx="868" cy="112" r="2.5" opacity="0.16"/>
+    <circle cx="868" cy="138" r="2.5" opacity="0.16"/>
+    <circle cx="868" cy="164" r="2.5" opacity="0.16"/>
+    <circle cx="868" cy="190" r="2.5" opacity="0.16"/>
+    <circle cx="894" cy="34" r="2.5" opacity="0.17"/>
+    <circle cx="894" cy="60" r="2.5" opacity="0.17"/>
+    <circle cx="894" cy="86" r="2.5" opacity="0.17"/>
+    <circle cx="894" cy="112" r="2.5" opacity="0.17"/>
+    <circle cx="894" cy="138" r="2.5" opacity="0.17"/>
+    <circle cx="894" cy="164" r="2.5" opacity="0.17"/>
+    <circle cx="894" cy="190" r="2.5" opacity="0.17"/>
+    <circle cx="920" cy="34" r="2.5" opacity="0.19"/>
+    <circle cx="920" cy="60" r="2.5" opacity="0.19"/>
+    <circle cx="920" cy="86" r="2.5" opacity="0.19"/>
+    <circle cx="920" cy="112" r="2.5" opacity="0.19"/>
+    <circle cx="920" cy="138" r="2.5" opacity="0.19"/>
+    <circle cx="920" cy="164" r="2.5" opacity="0.19"/>
+    <circle cx="920" cy="190" r="2.5" opacity="0.19"/>
+    <circle cx="946" cy="34" r="2.5" opacity="0.21"/>
+    <circle cx="946" cy="60" r="2.5" opacity="0.21"/>
+    <circle cx="946" cy="86" r="2.5" opacity="0.21"/>
+    <circle cx="946" cy="112" r="2.5" opacity="0.21"/>
+    <circle cx="946" cy="138" r="2.5" opacity="0.21"/>
+    <circle cx="946" cy="164" r="2.5" opacity="0.21"/>
+    <circle cx="946" cy="190" r="2.5" opacity="0.21"/>
+    <circle cx="972" cy="34" r="2.5" opacity="0.22"/>
+    <circle cx="972" cy="60" r="2.5" opacity="0.22"/>
+    <circle cx="972" cy="86" r="2.5" opacity="0.22"/>
+    <circle cx="972" cy="112" r="2.5" opacity="0.22"/>
+    <circle cx="972" cy="138" r="2.5" opacity="0.22"/>
+    <circle cx="972" cy="164" r="2.5" opacity="0.22"/>
+    <circle cx="972" cy="190" r="2.5" opacity="0.22"/>
+    <circle cx="998" cy="34" r="2.5" opacity="0.24"/>
+    <circle cx="998" cy="60" r="2.5" opacity="0.24"/>
+    <circle cx="998" cy="86" r="2.5" opacity="0.24"/>
+    <circle cx="998" cy="112" r="2.5" opacity="0.24"/>
+    <circle cx="998" cy="138" r="2.5" opacity="0.24"/>
+    <circle cx="998" cy="164" r="2.5" opacity="0.24"/>
+    <circle cx="998" cy="190" r="2.5" opacity="0.24"/>
+    <circle cx="1024" cy="34" r="2.5" opacity="0.25"/>
+    <circle cx="1024" cy="60" r="2.5" opacity="0.25"/>
+    <circle cx="1024" cy="86" r="2.5" opacity="0.25"/>
+    <circle cx="1024" cy="112" r="2.5" opacity="0.25"/>
+    <circle cx="1024" cy="138" r="2.5" opacity="0.25"/>
+    <circle cx="1024" cy="164" r="2.5" opacity="0.25"/>
+    <circle cx="1024" cy="190" r="2.5" opacity="0.25"/>
+    <circle cx="1050" cy="34" r="2.5" opacity="0.27"/>
+    <circle cx="1050" cy="60" r="2.5" opacity="0.27"/>
+    <circle cx="1050" cy="86" r="2.5" opacity="0.27"/>
+    <circle cx="1050" cy="112" r="2.5" opacity="0.27"/>
+    <circle cx="1050" cy="138" r="2.5" opacity="0.27"/>
+    <circle cx="1050" cy="164" r="2.5" opacity="0.27"/>
+    <circle cx="1050" cy="190" r="2.5" opacity="0.27"/>
+    <circle cx="1076" cy="34" r="2.5" opacity="0.29"/>
+    <circle cx="1076" cy="60" r="2.5" opacity="0.29"/>
+    <circle cx="1076" cy="86" r="2.5" opacity="0.29"/>
+    <circle cx="1076" cy="112" r="2.5" opacity="0.29"/>
+    <circle cx="1076" cy="138" r="2.5" opacity="0.29"/>
+    <circle cx="1076" cy="164" r="2.5" opacity="0.29"/>
+    <circle cx="1076" cy="190" r="2.5" opacity="0.29"/>
+    <circle cx="1102" cy="34" r="2.5" opacity="0.30"/>
+    <circle cx="1102" cy="60" r="2.5" opacity="0.30"/>
+    <circle cx="1102" cy="86" r="2.5" opacity="0.30"/>
+    <circle cx="1102" cy="112" r="2.5" opacity="0.30"/>
+    <circle cx="1102" cy="138" r="2.5" opacity="0.30"/>
+    <circle cx="1102" cy="164" r="2.5" opacity="0.30"/>
+    <circle cx="1102" cy="190" r="2.5" opacity="0.30"/>
+    <circle cx="1128" cy="34" r="2.5" opacity="0.32"/>
+    <circle cx="1128" cy="60" r="2.5" opacity="0.32"/>
+    <circle cx="1128" cy="86" r="2.5" opacity="0.32"/>
+    <circle cx="1128" cy="112" r="2.5" opacity="0.32"/>
+    <circle cx="1128" cy="138" r="2.5" opacity="0.32"/>
+    <circle cx="1128" cy="164" r="2.5" opacity="0.32"/>
+    <circle cx="1128" cy="190" r="2.5" opacity="0.32"/>
   </g>
-
-  <g transform="translate(790,58)">
-    <line x1="40" y1="30" x2="150" y2="30" stroke="#30475e" stroke-width="2" marker-end="url(#arrow)"/>
-    <line x1="190" y1="30" x2="300" y2="30" stroke="#30475e" stroke-width="2" marker-end="url(#arrow)"/>
-    <line x1="170" y1="52" x2="170" y2="118" stroke="#30475e" stroke-width="2" marker-end="url(#arrow)"/>
-    <line x1="150" y1="140" x2="60" y2="140" stroke="#30475e" stroke-width="2" marker-end="url(#arrow)"/>
-
-    <circle cx="20" cy="30" r="20" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
-    <circle cx="170" cy="30" r="20" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-    <circle cx="320" cy="30" r="20" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
-    <circle cx="170" cy="140" r="20" fill="#161b22" stroke="#d29922" stroke-width="2"/>
-    <circle cx="40" cy="140" r="20" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
-
-    <g font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e" text-anchor="middle">
-      <text x="20" y="72">load</text>
-      <text x="170" y="72">agent</text>
-      <text x="320" y="72">persist</text>
-      <text x="170" y="182" fill="#d29922">interrupt</text>
-      <text x="40" y="182">approve</text>
-    </g>
+  <rect x="0" y="0" width="5" height="220" rx="2.5" fill="#58a6ff"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="56" y="106" fill="#e6edf3" font-size="46" font-weight="600">Nguyen Tien Dat</text>
+    <rect x="58" y="126" width="48" height="3" rx="1.5" fill="#58a6ff"/>
+    <text x="58" y="162" fill="#8b949e" font-size="21">AI Engineer</text>
   </g>
 </svg>

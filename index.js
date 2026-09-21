@@ -29,7 +29,7 @@ async function fetchRepos() {
 
 function renderList(repos) {
   const items = repos
-    .filter((repo) => !repo.fork && !repo.archived)
+    .filter((repo) => !repo.fork && !repo.archived && repo.name !== USER)
     .slice(0, LIMIT)
     .map((repo) => {
       const pushed = new Date(repo.pushed_at).toISOString().slice(0, 10);
