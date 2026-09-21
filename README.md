@@ -61,6 +61,25 @@
   </tr>
 </table>
 
+## Stats
+
+<table>
+  <tr>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nqtiendat&theme=github_dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nqtiendat&theme=default" width="700" alt="profile-details">
+      </picture>
+    </td>
+    <td valign="top">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nqtiendat&theme=github_dark">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nqtiendat&theme=default" width="340" alt="repos-per-language">
+      </picture>
+    </td>
+  </tr>
+</table>
+
 ## Recent Activity
 
 <!-- ACTIVITY:START -->
