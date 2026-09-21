@@ -51,6 +51,7 @@ and evaluation pipelines.
 
 <!-- ACTIVITY:START -->
 <ul>
+  <li><a href="https://github.com/nqtiendat/nqtiendat">nqtiendat</a> — Profile README <sub>2026-09-21</sub></li>
   <li><a href="https://github.com/nqtiendat/demo-cicd">demo-cicd</a> <sub>2026-07-20</sub></li>
   <li><a href="https://github.com/nqtiendat/agentic-workflow-reliable-reasoning">agentic-workflow-reliable-reasoning</a> — Official LangChain implementation for the Springer CCIS paper "Agentic Workflow for Reliable RAG: Reducing Hallucinations with Coordinated Reasoning". Features an iterative multi-agent coordination loop (FVFL) for automated claim extraction, fact-verification, and query reformulation using local LLMs. <sub>2026-06-01</sub></li>
   <li><a href="https://github.com/nqtiendat/harness-agent-framework">harness-agent-framework</a> — A lightweight Agent Harness Framework designed for orchestrating and evaluating LLM-based multi-agent workflows. Provides server-enforced discipline, deterministic policy gates, quality check layers, and evaluation pipelines to ensure auditable, reliable, and safe agentic execution. <sub>2026-05-26</sub></li>
