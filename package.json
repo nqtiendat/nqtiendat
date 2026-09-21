@@ -1,0 +1,8 @@
+{
+  "name": "nqtiendat-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
