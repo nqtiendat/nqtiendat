@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/tiendat05/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="mailto:tiendattp91@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://doi.org/10.1007/978-3-032-21625-0_8"><img src="https://img.shields.io/badge/springer%20ccis-%23004B87.svg?&style=for-the-badge&logo=springer&logoColor=white" height=25></a>
+  <a href="https://orcid.org/0009-0003-1736-4505"><img src="https://img.shields.io/badge/orcid-%23A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white" height=25></a>
 </p>
 
 ## About Me
