@@ -1,9 +1,13 @@
-<img src="header.svg" alt="Nguyen Tien Dat - AI Engineer" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
+  <img src="header-dark.svg" alt="Nguyen Tien Dat - AI Engineer" width="100%">
+</picture>
 
 <p>
   <a href="https://www.linkedin.com/in/tiendat05/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="mailto:tiendattp91@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://doi.org/10.1007/978-3-032-21625-0_8"><img src="https://img.shields.io/badge/springer%20ccis-%23000000.svg?&style=for-the-badge&logo=springer&logoColor=white" height=25></a>
+  <a href="https://doi.org/10.1007/978-3-032-21625-0_8"><img src="https://img.shields.io/badge/springer%20ccis-%23004B87.svg?&style=for-the-badge&logo=springer&logoColor=white" height=25></a>
 </p>
 
 ## About Me
@@ -15,7 +19,12 @@
 
 ## Skill stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,fastapi,postgresql,redis,docker,git,githubactions,linux&theme=dark)](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,fastapi,postgresql,redis,docker,git,githubactions,linux&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,postgresql,redis,docker,git,githubactions,linux&theme=light" alt="Python, TypeScript, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub Actions, Linux">
+  </picture>
+</a>
 
 **Also comfortable with**: LangGraph, LangChain Deep Agents, Qdrant, Pydantic, SQLAlchemy, Keycloak, SQL.
 
@@ -65,7 +74,3 @@
 
 <p><a href="https://github.com/nqtiendat?tab=repositories">&#10145;&#65039; All repositories</a></p>
 
-## Links
-
-- [**LinkedIn**](https://www.linkedin.com/in/tiendat05/)
-- [**Paper**](https://doi.org/10.1007/978-3-032-21625-0_8)
