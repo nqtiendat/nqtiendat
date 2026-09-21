@@ -21,8 +21,8 @@
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,fastapi,postgresql,redis,docker,git,githubactions,linux&theme=dark">
-    <img src="https://skillicons.dev/icons?i=python,typescript,fastapi,postgresql,redis,docker,git,githubactions,linux&theme=light" alt="Python, TypeScript, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub Actions, Linux">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ctypescript%2Cfastapi%2Cpostgresql%2Credis%2Cdocker%2Cgit%2Cgithubactions%2Clinux&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python%2Ctypescript%2Cfastapi%2Cpostgresql%2Credis%2Cdocker%2Cgit%2Cgithubactions%2Clinux&theme=light" alt="Python, TypeScript, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub Actions, Linux">
   </picture>
 </a>
 
